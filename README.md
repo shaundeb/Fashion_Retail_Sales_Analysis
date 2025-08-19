@@ -23,9 +23,13 @@ fashion-retail-sales-analysis/
 
 # 💻 Technologies used
 **Python**: For data extraction, transformation and load into the database.
+
 **Pandas/NumPy**: For data cleaning and manipulation.
+
 **Datasets management**: Jupyter Notebook to control and manage the dataset.
+
 **Programming Languages**: Python for data processing and scripting.
+
 **Git/GitHub**: Version control and project management. 
 
 # 🔍 Analysis index
