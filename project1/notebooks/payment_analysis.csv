@@ -1,0 +1,3 @@
+payment_method,transaction_count,total_amount,avg_amount,avg_rating
+cash,1312,200338.0,152.7,2.98
+credit card,1438,230614.0,160.37,2.99
